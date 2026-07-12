@@ -7,5 +7,24 @@
     "github": "https://github.com/shubham1singh23",
     "linkedin": "https://linkedin.com/in/shubham1singh23"
   },
-  "projects": []
+  "projects": [
+    {
+      "id": "p_wsrhbll2mrhdwu7z",
+      "title": "Second Brain",
+      "description": "A second brain where you can store your memories and then you can chat with them for making critical decisions of your life . It uses vector databases for semantic search on your memories and uses LLM to help you chat with your memories .",
+      "image": "https://res.cloudinary.com/dh9nlw5gq/image/upload/v1783835969/qv8hkpdehaypppnujtsb.webp",
+      "liveLink": "https://chatgpt.com/c/6a532bbb-0480-83e8-8443-dd85d38e5776",
+      "githubLink": "https://github.com/shubham1singh23/second-brain",
+      "videoLink": "",
+      "tags": [
+        "React",
+        "Android (Java)",
+        "Langchain",
+        "Python",
+        "RAG",
+        "VectorDB"
+      ],
+      "order": 0
+    }
+  ]
 }
