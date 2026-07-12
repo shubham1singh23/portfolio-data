@@ -45,6 +45,25 @@
       "order": 1
     },
     {
+      "id": "p_ie7kx3womrhh1ld7",
+      "title": "ChatBoot",
+      "description": "It is a simple but scalable chatting application build using Spring Boot with Spring Secuirity implementation . Uses Websocket for realtime communication .",
+      "image": "https://res.cloudinary.com/dh9nlw5gq/image/upload/v1783841187/ysqaoc0bgrf5qpn44pzq.png",
+      "liveLink": "",
+      "githubLink": "https://github.com/shubham1singh23/ChatBoot",
+      "videoLink": "",
+      "tags": [
+        "React",
+        "Spring Boot",
+        "Websocket",
+        "Java",
+        "Spring Secuirity",
+        "JWT",
+        "MongoDB"
+      ],
+      "order": 2
+    },
+    {
       "id": "p_0pt0p5u8mrhg6pqe",
       "title": "Diabetes Prediction",
       "description": "A logistic regression model for diabetes prediction with about 85% of accuracy trained on large dataset from Kaggle .",
@@ -58,7 +77,24 @@
         "Sklearn",
         "Python"
       ],
-      "order": 2
+      "order": 3
+    },
+    {
+      "id": "p_hu440t0dmrhh1ld7",
+      "title": "PollGram",
+      "description": "It is a social media platform which is dedicated for Polls . I allows user to create , vote polls and understand the public opinions on the various topics . \nIt has seamless secuirity with Spring , the voting system is consistent and efficient .",
+      "image": "https://res.cloudinary.com/dh9nlw5gq/image/upload/v1783841283/q511gyvyvwwzdsdav7z0.png",
+      "liveLink": "",
+      "githubLink": "",
+      "videoLink": "",
+      "tags": [
+        "React",
+        "Spring Boot",
+        "Spring Secuirity",
+        "JWT",
+        "Postgres"
+      ],
+      "order": 4
     }
   ]
 }
