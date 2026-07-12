@@ -82,10 +82,10 @@
     {
       "id": "p_hu440t0dmrhh1ld7",
       "title": "PollGram",
-      "description": "It is a social media platform which is dedicated for Polls . I allows user to create , vote polls and understand the public opinions on the various topics . \nIt has seamless secuirity with Spring , the voting system is consistent and efficient .",
+      "description": "It is a social media platform which is dedicated for Polls . I allows user to create , vote polls and understand the public opinions on the various topics .It has seamless secuirity with Spring , the voting system is consistent and efficient .",
       "image": "https://res.cloudinary.com/dh9nlw5gq/image/upload/v1783841283/q511gyvyvwwzdsdav7z0.png",
       "liveLink": "",
-      "githubLink": "",
+      "githubLink": "https://github.com/shubham1singh23/Pollgram",
       "videoLink": "",
       "tags": [
         "React",
