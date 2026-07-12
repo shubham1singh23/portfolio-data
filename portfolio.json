@@ -43,6 +43,22 @@
         "LLMs"
       ],
       "order": 1
+    },
+    {
+      "id": "p_0pt0p5u8mrhg6pqe",
+      "title": "Diabetes Prediction",
+      "description": "A logistic regression model for diabetes prediction with about 85% of accuracy trained on large dataset from Kaggle .",
+      "image": "https://res.cloudinary.com/dh9nlw5gq/image/upload/v1783839837/qldhcner9pkah3mozrzy.png",
+      "liveLink": "https://shubham1singh23.pythonanywhere.com/",
+      "githubLink": "https://github.com/shubham1singh23/Diabetes-Model",
+      "videoLink": "",
+      "tags": [
+        "Logistic Regression",
+        "Flask",
+        "Sklearn",
+        "Python"
+      ],
+      "order": 2
     }
   ]
 }
