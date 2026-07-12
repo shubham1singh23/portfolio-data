@@ -1,1 +1,11 @@
-hi
+{
+  "profile": {
+    "name": "Shubham Singh",
+    "role": "Full-Stack Developer",
+    "tagline": "I design and ship end-to-end products, from database to pixel.",
+    "email": "you@example.com",
+    "github": "https://github.com/yourhandle",
+    "linkedin": "https://linkedin.com/in/yourhandle"
+  },
+  "projects": []
+}
