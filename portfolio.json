@@ -25,6 +25,24 @@
         "VectorDB"
       ],
       "order": 0
+    },
+    {
+      "id": "p_dro9g8cwmrhfagas",
+      "title": "ClassPulse",
+      "description": "An AI classroom engagement platform where students respond in realtime whether they are getting concepts or not anonymously , they can ask for questions and teacher can see summary of multiple questions to understand exactly where the class is lagging behind . Also there is a leaderboard between teachers which tells in whose class most students get understood well .",
+      "image": "https://res.cloudinary.com/dh9nlw5gq/image/upload/v1783838335/jzuvexxjwcwnmvlzmjdz.png",
+      "liveLink": "https://classpulse-ivory.vercel.app/",
+      "githubLink": "",
+      "videoLink": "",
+      "tags": [
+        "React",
+        "Flutter",
+        "Node.js",
+        "Sklearn",
+        "Python",
+        "LLMs"
+      ],
+      "order": 1
     }
   ]
 }
