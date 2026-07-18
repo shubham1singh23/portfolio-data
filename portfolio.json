@@ -40,7 +40,8 @@
         "Apache Kafka",
         "WebSocket",
         "Redis",
-        "Postgres"
+        "Postgres",
+        "Docker"
       ],
       "order": 1
     },
