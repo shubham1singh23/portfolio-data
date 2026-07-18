@@ -29,7 +29,7 @@
     {
       "id": "p_3bjgxb5bmrq02k2k",
       "title": "Realtime Analytics Dashboard",
-      "description": "A distributed, event-driven analytics platform that simulates thousands of\nservers/IoT devices publishing live metrics, processes them through Kafka,\npersists history to PostgreSQL, caches hot data in Redis, and pushes live\nupdates to a React dashboard over WebSockets.",
+      "description": "A distributed, event-driven analytics platform that simulates thousands of servers/IoT devices publishing live metrics, processes them through Kafka, persists history to PostgreSQL, caches hot data in Redis, and pushes live updates to a React dashboard over WebSockets.",
       "image": "https://res.cloudinary.com/dh9nlw5gq/image/upload/v1784356909/zy5vooraijcfaqogeg6o.png",
       "liveLink": "https://rta-dashboard-demo.vercel.app/",
       "githubLink": "https://github.com/shubham1singh23/rta-dashboard.git",
