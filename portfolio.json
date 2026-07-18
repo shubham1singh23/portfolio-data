@@ -27,6 +27,24 @@
       "order": 0
     },
     {
+      "id": "p_3bjgxb5bmrq02k2k",
+      "title": "Realtime Analytics Dashboard",
+      "description": "A distributed, event-driven analytics platform that simulates thousands of\nservers/IoT devices publishing live metrics, processes them through Kafka,\npersists history to PostgreSQL, caches hot data in Redis, and pushes live\nupdates to a React dashboard over WebSockets.",
+      "image": "https://res.cloudinary.com/dh9nlw5gq/image/upload/v1784356909/zy5vooraijcfaqogeg6o.png",
+      "liveLink": "https://rta-dashboard-demo.vercel.app/",
+      "githubLink": "https://github.com/shubham1singh23/rta-dashboard.git",
+      "videoLink": "",
+      "tags": [
+        "React",
+        "Spring Boot",
+        "Apache Kafka",
+        "WebSocket",
+        "Redis",
+        "Postgres"
+      ],
+      "order": 1
+    },
+    {
       "id": "p_dro9g8cwmrhfagas",
       "title": "ClassPulse",
       "description": "An AI classroom engagement platform where students respond in realtime whether they are getting concepts or not anonymously , they can ask for questions and teacher can see summary of multiple questions to understand exactly where the class is lagging behind . Also there is a leaderboard between teachers which tells in whose class most students get understood well .",
@@ -42,7 +60,7 @@
         "Python",
         "LLMs"
       ],
-      "order": 1
+      "order": 2
     },
     {
       "id": "p_ie7kx3womrhh1ld7",
@@ -61,7 +79,7 @@
         "JWT",
         "MongoDB"
       ],
-      "order": 2
+      "order": 3
     },
     {
       "id": "p_0pt0p5u8mrhg6pqe",
@@ -77,7 +95,7 @@
         "Sklearn",
         "Python"
       ],
-      "order": 3
+      "order": 4
     },
     {
       "id": "p_hu440t0dmrhh1ld7",
@@ -94,7 +112,7 @@
         "JWT",
         "Postgres"
       ],
-      "order": 4
+      "order": 5
     }
   ]
 }
